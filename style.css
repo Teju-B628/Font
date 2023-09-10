@@ -1,0 +1,20 @@
+.Text{
+    font-family: 'Pangolin', cursive;
+font-family: 'Rubik Bubbles', cursive;
+color:aliceblue;
+}
+
+#Photo{
+    bottom: 0;
+    position: fixed;
+    margin-left:1200px;
+    font-size: larger;
+}
+
+body{
+    background-position: center;
+}
+
+canvas{
+    background-color: rgb(97, 25, 212);
+}
